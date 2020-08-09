@@ -1,0 +1,5 @@
+Make necessary changes like:
+1)Sender's mail and pass
+2)Receiver addresses
+3)Specify File Directory of attachments (I have included a test folder)
+4)Edit variable 'message', this is a variable which holds your text message
